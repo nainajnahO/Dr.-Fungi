@@ -1,6 +1,6 @@
 # 🍄 Dr. Fungi
 
-Multimodal LLM mushroom expert chatbot built with Claude API and Gradio in Python.
+**⚠️ This is a demonstration project only - do not use for actual mushroom identification or foraging decisions.**
 
 ## Overview
 
